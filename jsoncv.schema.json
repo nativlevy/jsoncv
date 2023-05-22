@@ -1,5 +1,5 @@
 {
-  "$schema": "https://raw.githubusercontent.com/reorx/jsoncv/master/schema/jsoncv.schema.json",
+  "$schema": "https://github.com/nativlevy/jsoncv/blob/main/jsoncv.schema.json",
   "basics": {
     "name": "Richard Hendriks",
     "label": "Programmer",
